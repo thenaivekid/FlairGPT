@@ -1,0 +1,152 @@
+prompt: A home office for an AI researcher who loves reading books and coding.
+room_width: 4.0
+room_length: 5.0
+desk: {'position': (0.7852861119630633, 1.574623986262875, 4.829888107523168), 'width': 1.6, 'length': 0.8}
+armchair: {'position': (3.549962946121349, 1.7636085814190774, 1.5708304278187137), 'width': 0.9, 'length': 0.9}
+bookshelf: {'position': (3.0535491854548997, 4.640336013066116, 3.5115533897581344), 'width': 1.2, 'length': 0.3}
+desk chair: {'position': (2.345583781972525, 3.0658158525199597, 7.49192894389239e-08), 'width': 0.6, 'length': 0.6}
+drawer unit: {'position': (0.39691247268525154, 3.7275310723611823, 1.5707962885395426), 'width': 0.4, 'length': 0.5}
+filing cabinet: {'position': (0.9294798904251903, 0.44482819927776857, 3.141592684131474), 'width': 0.4, 'length': 0.5}
+side table: {'position': (2.5141311846677197, 2.2370672933497047, 6.283185299848378), 'width': 0.5, 'length': 0.5}
+ottoman: {'position': (2.6904976986091502, 1.5344060215164097, 1.5707963163831045), 'width': 0.5, 'length': 0.4}
+floor plant: {'position': (3.638167697377088, 4.1461253885033935, 6.28318530183611), 'width': 0.4, 'length': 0.4}
+bookshelf0: {'position': (3.595235127492801, 3.3290148601423977, 4.712388379946472), 'width': 1.2, 'length': 0.3}
+storage cabinet: {'position': (1.3870364245578182, 3.217743245389919, 1.5707955205684279), 'width': 0.6, 'length': 0.4}
+book cart: {'position': (1.817645850390744, 3.306161791859554, 4.712389004233702), 'width': 0.5, 'length': 0.3}
+window: {'position': (2.0, 0, 0), 'width': 1.5, 'length': 0.1}
+door: {'position': (1.52, 5.0, 3.141592653589793), 'width': 0.9, 'length': 0.1}
+socket: {'position': (0, 1.516, 4.71238898038469), 'width': 0.08, 'length': 0.05}
+socket0: {'position': (0, 2.254, 4.71238898038469), 'width': 0.08, 'length': 0.05}
+socket1: {'position': (0, 2.992, 4.71238898038469), 'width': 0.08, 'length': 0.05}
+socket2: {'position': (4.0, 1.024, 1.5707963267948966), 'width': 0.08, 'length': 0.05}
+socket3: {'position': (4.0, 3.484, 1.5707963267948966), 'width': 0.08, 'length': 0.05}
+socket4: {'position': (2.784, 5.0, 3.141592653589793), 'width': 0.08, 'length': 0.05}
+socket5: {'position': (3.176, 0, 0), 'width': 0.08, 'length': 0.05}
+rug: {'position': (0.8899896078832912, 1.2843545735785096, 4.71238898038469), 'width': 1.6, 'length': 2.0}
+monitor: {'position': (3.383514910171136, 3.703889088904196, 1.5707963267948966), 'width': 0.6, 'length': 0.2}
+lamp: {'position': (3.119403171119771, 1.366508321164146, 1.5707963267948966), 'width': 0.2, 'length': 0.2}
+organizer: {'position': (1.7347262409174156, 0.6235462646407597, 4.71238898038469), 'width': 0.3, 'length': 0.2}
+decoration: {'position': (0.11733844334318455, 2.16046455860377, 0), 'width': 0.2, 'length': 0.2}
+wall_art: {'position': (0.13806013070847944, 1.5664688398894133, 3.141592653589793), 'width': 0.8, 'length': 0.1}
+rug0: {'position': (3.15081127212115, 2.8230494748673656, 3.141592653589793), 'width': 1.2, 'length': 1.6}
+bookends: {'position': (1.6236833106065358, 3.5639729043494124, 1.5707963267948966), 'width': 0.1, 'length': 0.1}
+vase: {'position': (1.0809758979312338, 4.056581386061437, 1.5707963267948966), 'width': 0.15, 'length': 0.15}
+pillow: {'position': (0.5625096556019771, 0.774208055117227, 1.5707963267948966), 'width': 0.4, 'length': 0.4}
+wall_art1: {'position': (3.3550276156230816, 4.108827936178095, 4.71238898038469), 'width': 0.7, 'length': 0.1}
+style: ### **Walls:**
+- **Color**: A sophisticated deep muted blue-grey, providing a calming and intellectual backdrop conducive to focus and creativity. This hue creates a sense of depth without being overly dark, and pairs well with natural wood tones and black accents.
+- **Material**: Painted walls for a smooth, refined finish. An accent wall behind the main desk or bookshelf could feature a subtle, low-contrast geometric pattern wallpaper in complementary blue-grey tones to add texture and visual interest without distraction.
+
+### **Windows and Doors:**
+- **Windows**:
+  - **Style**: Large, contemporary windows with a sleek, minimalist design, maximizing natural light. Could be casement or fixed pane, depending on ventilation needs.
+  - **Color**: Matte black frames to provide a sharp, modern contrast and echo other black elements in the room. Dressed with sheer, light-filtering white or off-white curtains to diffuse harsh sunlight while maintaining brightness.
+- **Doors**:
+  - **Style**: Simple, flush, solid core doors for sound insulation and a clean aesthetic.
+  - **Color**: A crisp, warm white or very light grey, with matte black hardware (lever handles) to complement the window frames and overall modern palette.
+
+### **Floor:**
+- **Material**: Engineered hardwood floor, chosen for its durability, warmth, and classic appeal.
+- **Color**: A medium-toned, slightly desaturated oak or walnut finish, offering a refined and natural foundation that complements the muted wall colors and dark furniture accents.
+
+### **Furniture and Decor:**
+
+1.  **Desk**:
+    - **Style**: Large, L-shaped modern desk with a minimalist design, providing ample workspace for coding and research.
+    - **Color**: Dark walnut or rich oak solid wood top, paired with sleek matte black powder-coated steel legs.
+
+2.  **Armchair**:
+    - **Style**: Mid-century modern lounge chair with a comfortable, slightly reclined profile, ideal for reading.
+    - **Color**: Upholstered in a durable, deep charcoal grey or forest green fabric, with a dark wood (e.g., walnut) or black metal frame.
+
+3.  **Bookshelf (main)**:
+    - **Style**: Tall, open industrial-modern bookshelf, designed for extensive book collections.
+    - **Color**: Sturdy matte black metal frame with dark walnut or black-stained solid wood shelves.
+
+4.  **Desk chair**:
+    - **Style**: Ergonomic, high-back executive task chair with a sleek, professional look, designed for long hours of coding.
+    - **Color**: Black breathable mesh back and seat, with polished aluminum or matte black base and armrests.
+
+5.  **Drawer unit**:
+    - **Style**: Mobile, low-profile pedestal drawer unit for under-desk storage, featuring clean lines.
+    - **Color**: Matte black or dark grey metal, with minimalist flush handles or a push-to-open mechanism.
+
+6.  **Filing cabinet**:
+    - **Style**: Vertical, two-drawer filing cabinet with a contemporary, unobtrusive design.
+    - **Color**: Matte black metal, with a smooth, anti-fingerprint finish.
+
+7.  **Side table**:
+    - **Style**: Minimalist C-table or a small, round pedestal table, designed to tuck next to the armchair.
+    - **Color**: Matte black metal or dark grey solid surface top with a matching base.
+
+8.  **Ottoman**:
+    - **Style**: Simple, cylindrical or cube-shaped ottoman, providing a comfortable footrest for the armchair.
+    - **Color**: Upholstered in a textured dark grey or deep blue fabric, coordinating with the armchair.
+
+9.  **Floor plant**:
+    - **Style**: Tall, architectural floor plant in a minimalist planter, adding a touch of nature and vibrancy.
+    - **Color**: A Fiddle Leaf Fig or Snake Plant in a matte black or dark grey ceramic pot.
+
+10. **Bookshelf (secondary)**:
+    - **Style**: A set of floating shelves or a smaller, slim étagère for displaying curated book collections or decorative items.
+    - **Color**: Dark walnut or black-stained wood for floating shelves, or a black metal frame with smoked glass shelves for an étagère.
+
+11. **Storage cabinet**:
+    - **Style**: Low, credenza-style storage cabinet with solid doors, providing concealed storage for tech equipment and office supplies.
+    - **Color**: Dark grey laminate or stained dark oak wood, with minimalist push-to-open doors.
+
+12. **Book cart**:
+    - **Style**: Industrial-chic rolling book cart, practical for temporary storage of research materials or active reads.
+    - **Color**: Matte black metal frame with natural wood or matte black shelves, equipped with smooth-rolling casters.
+
+13. **Rug (main)**:
+    - **Style**: Large, low-pile area rug with a subtle abstract or geometric pattern.
+    - **Color**: A blend of muted greys, charcoal, deep blue, and cream, defining the main work zone and adding softness.
+
+14. **Monitor**:
+    - **Style**: Dual ultra-slim bezel monitors for an immersive and efficient workspace.
+    - **Color**: Matte black or space grey.
+
+15. **Keyboard_mouse**:
+    - **Style**: Ergonomic and minimalist wireless keyboard and mouse set.
+    - **Color**: Matte black or space grey to complement the monitors and desk.
+
+16. **Desk_lamp**:
+    - **Style**: Modern, articulated arm LED desk lamp, providing focused task lighting.
+    - **Color**: Matte black finish.
+
+17. **Wall_art (main)**:
+    - **Style**: Large-scale abstract artwork or a stylized technical blueprint (e.g., neural network diagram) with clean lines.
+    - **Color**: Predominantly cool tones (blues, greys, deep greens) with subtle metallic accents or black/white contrast, framed in a thin matte black metal frame.
+
+18. **Rug (secondary)**:
+    - **Style**: Smaller, plush area rug for the reading nook, adding warmth and comfort.
+    - **Color**: Solid dark grey or deep blue, with a slightly shaggier pile than the main rug.
+
+19. **Table_lamp**:
+    - **Style**: Modern table lamp with a sculptural base and a soft, diffused light, perfect for the side table in the reading nook.
+    - **Color**: Dark grey ceramic or matte black metal base, with a natural linen or off-white drum shade.
+
+20. **Throw_pillow**:
+    - **Style**: One or two textured throw pillows for the armchair, enhancing comfort and adding a decorative touch.
+    - **Color**: Deep blue velvet, forest green linen, or a textured dark grey to complement the armchair and wall color.
+
+21. **Wall_art (secondary)**:
+    - **Style**: A curated gallery wall of smaller framed prints, featuring minimalist line art, architectural sketches, or abstract photography.
+    - **Color**: Black and white or muted sepia tones, with thin matte black frames, arranged cohesively.
+
+22. **Rug (third)**:
+    - **Style**: Small, round natural fiber rug (e.g., jute or sisal) or a faux sheepskin accent rug.
+    - **Color**: Natural beige/brown for jute, or off-white/cream for faux sheepskin, placed near the door or to add texture in a specific micro-zone.
+
+23. **Bookends**:
+    - **Style**: Heavy, minimalist, geometric bookends.
+    - **Color**: Matte black metal or polished concrete, providing both function and subtle aesthetic appeal.
+
+24. **Decorative_object**:
+    - **Style**: A unique, thought-provoking object that resonates with an AI researcher's interests, such as an intricate metal puzzle, a polished obsidian sphere, or a stylized vintage calculator.
+    - **Color**: Dark metallic (e.g., brass, gunmetal) or natural stone/wood finish.
+
+25. **Wall_clock**:
+    - **Style**: Large, minimalist wall clock with a clean face and simple markers.
+    - **Color**: Matte black metal frame with a crisp white or dark grey face, ensuring clear readability.

@@ -1,0 +1,123 @@
+prompt: A bedroom that is 4m x 5m.
+room_width: 4.0
+room_length: 5.0
+bed: {'position': (1.0000000272169944, 2.7524936057135316, 4.71238895768826), 'width': 1.5, 'length': 2.0}
+wardrobe: {'position': (3.7000000051053337, 2.8697723769726156, 1.5707963658121313), 'width': 1.2, 'length': 0.6}
+dressing table: {'position': (3.0000015118172016, 0.22500000879457538, 2.1247206660746087e-08), 'width': 1.0, 'length': 0.45}
+nightstand: {'position': (0.20076973571597315, 4.362319663616824, 4.704358061359741), 'width': 0.5, 'length': 0.4}
+nightstand0: {'position': (0.1984032076652335, 1.1066495521236845, 4.686474953895869), 'width': 0.5, 'length': 0.4}
+dresser: {'position': (2.0837517067712064, 4.7501142668669285, 3.141672155601881), 'width': 1.0, 'length': 0.5}
+shoe rack: {'position': (3.8499999985981526, 1.4519305405283816, 1.5707963221418484), 'width': 0.8, 'length': 0.3}
+storage ottoman: {'position': (3.3850718965431894, 4.699999994877903, 3.141592640508426), 'width': 0.6, 'length': 0.6}
+dressing table chair: {'position': (3.0109245403964437, 0.6500107966451035, 3.217648128665558e-09), 'width': 0.4, 'length': 0.4}
+freestanding mirror: {'position': (3.750049352824752, 0.2000568508432692, 6.282944536166797), 'width': 0.5, 'length': 0.4}
+door: {'position': (5.120000000000001, 0, 0), 'width': 0.8, 'length': 0.1}
+window: {'position': (4.0, 6.020000000000001, 1.5707963267948966), 'width': 1.8, 'length': 0.1}
+socket: {'position': (2.0, 0, 0), 'width': 0.1, 'length': 0.1}
+socket0: {'position': (13.31, 0, 0), 'width': 0.1, 'length': 0.1}
+socket1: {'position': (2.0, 5.0, 3.141592653589793), 'width': 0.1, 'length': 0.1}
+socket2: {'position': (13.31, 5.0, 3.141592653589793), 'width': 0.1, 'length': 0.1}
+socket3: {'position': (0, 2.5, 4.71238898038469), 'width': 0.1, 'length': 0.1}
+socket4: {'position': (0, 21.610000000000003, 4.71238898038469), 'width': 0.1, 'length': 0.1}
+area rug: {'position': (2.0013167890139374, 2.754091422637813, 6.282409956585152), 'width': 2.0, 'length': 3.0}
+table lamp: {'position': (0.2014469744244964, 4.360686223130082, 4.713072820304831), 'width': 0.2, 'length': 0.2}
+painting: {'position': (0.050125106402529776, 2.755263094543191, 4.712388319965554), 'width': 1.2, 'length': 0.1}
+jewelry tray: {'position': (2.0840582470531, 4.753155296174847, 3.144870740881215), 'width': 0.3, 'length': 0.2}
+wall hook: {'position': (3.949876948245304, 2.8687794479877455, 1.5708880272151082), 'width': 0.1, 'length': 0.1}
+storage box: {'position': (3.6503596741328117, 2.8633800390974593, 1.56981095088896), 'width': 0.4, 'length': 0.3}
+makeup organizer: {'position': (3.000168471441503, 0.33197815704347033, 0.0017666479328281688), 'width': 0.3, 'length': 0.2}
+small table lamp: {'position': (2.9989225559770025, 0.15695240575297223, 0.0014420544538987245), 'width': 0.15, 'length': 0.15}
+wall art: {'position': (3.68749850354456, 0.05007882920562624, 2.527531879333398e-05), 'width': 0.6, 'length': 0.1}
+style: ### **Walls:**
+- **Color**: Warm greige (a blend of grey and beige), which provides a sophisticated, calming, and neutral foundation, allowing other elements in the room to stand out without overwhelming the space.
+- **Material**: Smooth painted walls with a matte finish for a contemporary, clean aesthetic.
+
+### **Windows and Doors:**
+- **Windows**:
+  - **Style**: Large, single-pane casement windows with clean lines, designed to maximize natural light and offer an uncluttered view.
+  - **Color**: Matte black frames with light sheer white linen curtains that provide privacy while beautifully diffusing sunlight.
+- **Doors**:
+  - **Style**: Flush panel door with a minimalist design, ensuring a seamless and modern look.
+  - **Color**: Soft white with matte black lever handles and hinges to complement the window frames and add a touch of modern contrast.
+
+### **Floor:**
+- **Material**: Engineered hardwood floor, offering durability and a natural, warm ambiance.
+- **Color**: Light natural oak, chosen for its bright, airy feel that expands the room and pairs harmoniously with the warm greige walls and neutral furniture.
+
+### **Furniture and Decor:**
+
+1.  **Bed**:
+    - **Style**: Modern platform bed with a low profile and a clean-lined, upholstered headboard.
+    - **Color**: Light grey linen fabric headboard with a solid wood frame in a natural oak finish, providing a soft focal point and comfortable support.
+
+2.  **Wardrobe**:
+    - **Style**: Freestanding, minimalist design with handle-less push-to-open doors, creating a sleek and uncluttered appearance.
+    - **Color**: Matte white finish, allowing it to blend seamlessly with the wall color and contribute to an airy feel, complemented by subtle interior natural wood accents.
+
+3.  **Dressing Table**:
+    - **Style**: Floating minimalist design with a single wide drawer, offering a clean and functional workspace.
+    - **Color**: White lacquered top with a subtle natural oak wood front for the drawer, providing a sophisticated contrast and tying into the room's wood elements.
+
+4.  **Nightstand (first)**:
+    - **Style**: Simple cube design with an open shelf and a single pull-out drawer.
+    - **Color**: Solid natural oak wood, matching the bed frame and floor, offering warmth and practical bedside storage.
+
+5.  **Nightstand (second)**:
+    - **Style**: Simple cube design with an open shelf and a single pull-out drawer.
+    - **Color**: Solid natural oak wood, maintaining symmetry and cohesiveness with the first nightstand.
+
+6.  **Dresser**:
+    - **Style**: Mid-century modern inspired with clean lines and tapered legs, featuring three wide drawers.
+    - **Color**: Warm walnut wood finish, providing a rich, darker contrast to the lighter oak elements while still maintaining natural warmth.
+
+7.  **Shoe Rack**:
+    - **Style**: Slim, open-shelf design, allowing for easy access and air circulation, suitable for placing inside the wardrobe or discreetly in a corner.
+    - **Color**: Matte black metal frame with light oak wood shelves, combining industrial chic with natural warmth.
+
+8.  **Storage Ottoman**:
+    - **Style**: Cylindrical shape with a removable lid for discreet storage, functioning as both extra seating and practical storage.
+    - **Color**: Textured light grey fabric upholstery, matching the bed's headboard and providing a soft, complementary accent.
+
+9.  **Dressing Table Chair**:
+    - **Style**: Compact, backless stool with a simple, clean design and slightly splayed legs.
+    - **Color**: Upholstered in a cream-colored boucle fabric with natural oak wood legs, offering comfort and a touch of modern texture.
+
+10. **Freestanding Mirror**:
+    - **Style**: Full-length with a sleek, minimalist frame, designed to lean against the wall or stand freely.
+    - **Color**: Matte black metal frame, providing a sharp, modern accent that ties into the window and door hardware.
+
+11. **Area Rug**:
+    - **Style**: Low-pile with a subtle abstract geometric pattern, adding texture and visual interest without overwhelming the space.
+    - **Color**: A blend of light grey and cream tones, grounding the bed area and harmonizing with the overall neutral palette.
+
+12. **Table Lamp (first)**:
+    - **Style**: Modern minimalist design with a slender base and a drum-shaped shade.
+    - **Color**: Matte black metal base with a crisp white fabric shade, providing a sophisticated bedside glow.
+
+13. **Painting**:
+    - **Style**: Abstract landscape art with soft, muted brushstrokes, evoking a sense of calm and nature.
+    - **Color**: Dominant tones of soft blues, muted greens, and warm greys, framed in a thin natural oak wood frame, adding a serene visual element.
+
+14. **Jewelry Tray**:
+    - **Style**: Simple, rectangular design with slightly raised edges, perfect for organizing small items.
+    - **Color**: Light natural stoneware in a matte finish, offering a refined and tactile surface for accessories.
+
+15. **Wall Hook**:
+    - **Style**: Single, minimalist peg-style hook, practical for robes or light garments.
+    - **Color**: Solid matte black metal, serving as a subtle functional accent on the wall.
+
+16. **Storage Box**:
+    - **Style**: Rectangular fabric box with a lid, designed for hidden storage on shelves or within the wardrobe.
+    - **Color**: Dark grey felt fabric with a subtle leather pull tab, combining functionality with a sleek appearance.
+
+17. **Makeup Organizer**:
+    - **Style**: Clear acrylic tiered organizer with multiple compartments, designed for neat display on the dressing table.
+    - **Color**: Transparent acrylic, maintaining an airy and uncluttered look while keeping makeup accessible.
+
+18. **Small Table Lamp**:
+    - **Style**: Compact, modern design with a spherical frosted glass shade on a solid base.
+    - **Color**: Frosted white glass shade with a brushed brass base, providing a soft, ambient light for the dressing table.
+
+19. **Wall Art**:
+    - **Style**: Set of two minimalist line art prints depicting natural forms, framed simply.
+    - **Color**: Black line art on a crisp white background with slender natural oak frames, complementing the overall modern aesthetic and adding subtle visual interest.
